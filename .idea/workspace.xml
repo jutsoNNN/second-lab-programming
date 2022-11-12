@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea12a25a-a636-460d-977b-2a45ed6f5d0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/Pokemon.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Charge_Beam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Dazzling_Gleam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Double_Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Drill_Peck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Play_Nice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Rock_Tomb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Slash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Superpower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Swagger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Thunderbolt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Trop_Kick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/move/Zap_Cannon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/pokemons/Bounsweet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/pokemons/Braviary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/pokemons/Rufflet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/pokemons/Steenee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/pokemons/Tsareena.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/cool/poke/pokemons/Zapdos.java" afterDir="false" />
-    </list>
+    <list default="true" id="ea12a25a-a636-460d-977b-2a45ed6f5d0a" name="Changes" comment="com 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,8 +89,16 @@
       <workItem from="1667825024468" duration="683000" />
       <workItem from="1668179585707" duration="4304000" />
       <workItem from="1668247020888" duration="5156000" />
-      <workItem from="1668264428833" duration="426000" />
+      <workItem from="1668264428833" duration="740000" />
     </task>
+    <task id="LOCAL-00001" summary="com 2">
+      <created>1668265156092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668265156092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="com 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="com 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
